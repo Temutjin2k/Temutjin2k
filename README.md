@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeron1ca 
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me (https://www.instagram.com/tamutdzhin/)
 
