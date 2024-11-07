@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Zeron1ca 
+- 👋 Hi, I’m @tkoszhan
+  
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on anyone
