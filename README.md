@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tkoszhan
+- 👋 Hi, I’m @Temutjin2k
   
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Golang
