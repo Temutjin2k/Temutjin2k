@@ -14,6 +14,16 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Temutjin2k&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Temutjin2k&theme=aura" height="180em" />
 
+--- 
+
+
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thamiscoder/thamiscoder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thamiscoder/thamiscoder/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thamiscoder/thamiscoder/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
