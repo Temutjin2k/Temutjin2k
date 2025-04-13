@@ -17,7 +17,7 @@
 --- 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,java,postgres,redis,linux,bash,git,github"/> 
+  <img src="https://skillicons.dev/icons?i=go,docker,postgres,mongo,redis,linux,bash,git,github"/> 
 </div>
 
 --- 
