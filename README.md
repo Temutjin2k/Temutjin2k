@@ -5,24 +5,11 @@
 
 --- 
 
-# Statistics
-
-<a href="https://github.com/Temutjin2k">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Temutjin2k&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Temutjin2k&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Temutjin2k&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Temutjin2k&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Temutjin2k&theme=aura" height="180em" />
-
---- 
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,docker,postgres,mongo,redis,linux,bash,git,github"/> 
 </div>
 
 --- 
-
-# Parrots
 
 <div>
     <img src="https://cultofthepartyparrot.com/flags/hd/kazakhstanparrot.gif" width="30" height="30">
