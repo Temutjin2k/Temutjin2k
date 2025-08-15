@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Temutjin</h1>
-<h3 align="center">I’m a Go backend developer from Kazakhstan. My stack includes Go, PostgreSQL, Redis, RabbitMQ, Kafka, Docker. I’m passionate about clean architecture and distributed systems</h3>
+<h3 align="center">I’m a Go backend developer from Kazakhstan.</h3>
 
 ---
 
